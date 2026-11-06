@@ -2,6 +2,9 @@
 
 A personal web development and technology learning journal created to document daily notes and articles. Built with semantic HTML5 and responsive CSS Flexbox.
 
+> 📜 **Certification Context:** This project was developed as the final submission for the **Fundamentals of Web Programming** class in the **Dicoding DBS** program.  
+> [![Dicoding Certificate - Page 1](certificate/certificate-page1.png)](Fundamentals-of-Web-Programming.pdf)
+
 ## 🛠️ Built With
 
 *   **HTML5** (Semantic elements: `<header>`, `<nav>`, `<main>`, `<article>`, `<aside>`, `<footer>`)
