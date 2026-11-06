@@ -15,10 +15,10 @@ A personal web development and technology learning journal created to document d
 ```text
 dev-learning-journal/
 │
-├── index.html        # Main HTML file containing the structure and content
-├── style.css         # Stylesheet for layout, typography, and theme
+├── index.html                 # Main HTML file containing the structure and content
+├── style.css                  # Stylesheet for layout, typography, and theme
 └── assets/
-    └── pasFotoMerah.jpeg  # Profile image
+    └── pasFotoMerah.jpeg      # Profile image
 
 ```
 
